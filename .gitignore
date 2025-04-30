@@ -1,0 +1,7 @@
+/chest_xray
+
+# Игнорируем конфиги с секретами
+.env
+.dvc/tmp
+.dvc/cache
+.dvc/config
