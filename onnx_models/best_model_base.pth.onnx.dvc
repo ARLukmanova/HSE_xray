@@ -1,0 +1,5 @@
+outs:
+- md5: e329cc6ae91d5ea4adaa770bde628ea5
+  size: 44700667
+  hash: md5
+  path: best_model_base.pth.onnx
